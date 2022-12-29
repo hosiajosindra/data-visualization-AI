@@ -1,6 +1,6 @@
 # data-visualization-AI
-<p align="justify>
-In this repo I'm trying to run an AI for data visualization that I found [here](https://datasans.medium.com/visualisasi-python-tanpa-coding-the-power-of-chatgpt-c761ce389ef5).
+<p align="justify">
+Hi all, in this repo I'm trying to run an AI for data visualization that I found [here](https://datasans.medium.com/visualisasi-python-tanpa-coding-the-power-of-chatgpt-c761ce389ef5).
 </p>
 
 ### Library Used
@@ -12,3 +12,5 @@ In this repo I'm trying to run an AI for data visualization that I found [here](
 3. How to get your API keys? [here](https://datasans.medium.com/how-to-use-chatgpt-api-directly-in-your-jupyter-notebook-simple-no-gimmicks-be30bdf9f031).
 
 ** All the credit goes to: https://datasans.medium.com
+
+#### hope this helps, have fun ! 😊
